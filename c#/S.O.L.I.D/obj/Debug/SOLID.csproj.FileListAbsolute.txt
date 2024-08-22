@@ -1,0 +1,7 @@
+D:\Documents\utehy\utehy_Winform\SOLID\bin\Debug\SOLID.exe.config
+D:\Documents\utehy\utehy_Winform\SOLID\bin\Debug\SOLID.exe
+D:\Documents\utehy\utehy_Winform\SOLID\bin\Debug\SOLID.pdb
+D:\Documents\utehy\utehy_Winform\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+D:\Documents\utehy\utehy_Winform\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+D:\Documents\utehy\utehy_Winform\SOLID\obj\Debug\SOLID.exe
+D:\Documents\utehy\utehy_Winform\SOLID\obj\Debug\SOLID.pdb

@@ -1,0 +1,7 @@
+D:\Documents\utehy\utehy_Winform\Advance C#\bin\Debug\Advance C#.exe.config
+D:\Documents\utehy\utehy_Winform\Advance C#\bin\Debug\Advance C#.exe
+D:\Documents\utehy\utehy_Winform\Advance C#\bin\Debug\Advance C#.pdb
+D:\Documents\utehy\utehy_Winform\Advance C#\obj\Debug\Advance C#.csproj.AssemblyReference.cache
+D:\Documents\utehy\utehy_Winform\Advance C#\obj\Debug\Advance C#.csproj.CoreCompileInputs.cache
+D:\Documents\utehy\utehy_Winform\Advance C#\obj\Debug\Advance C#.exe
+D:\Documents\utehy\utehy_Winform\Advance C#\obj\Debug\Advance C#.pdb

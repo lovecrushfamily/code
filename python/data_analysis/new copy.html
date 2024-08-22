@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice Notification</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+    <div style="max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ddd;">
+        <h2>Invoice Notification</h2>
+        <p>Hello @customer_name,</p>
+        <p>Thank you for shopping at our store. Below is your invoice details:</p>
+        <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+            <tr>
+                <td><strong>Customer Name:</strong></td>
+                <td>@customer_name</td>
+            </tr>
+            <tr>
+                <td><strong>Product:</strong></td>
+                <td>@product_name</td>
+            </tr>
+            <tr>
+                <td><strong>Quantity:</strong></td>
+                <td>@quantity</td>
+            </tr>
+            <tr>
+                <td><strong>Voucher:</strong></td>
+                <td>@voucher_name</td>
+            </tr>
+            <tr>
+                <td><strong>Shipping Address:</strong></td>
+                <td>@address</td>
+            </tr>
+            <tr>
+                <td><strong>Payment Method:</strong></td>
+                <td>@payment</td>
+            </tr>
+            <tr>
+                <td><strong>Store:</strong></td>
+                <td>@shopname</td>
+            </tr>
+            <tr>
+                <td><strong>Invoice Date:</strong></td>
+                <td>@date</td>
+            </tr>
+        </table>
+        <p>Thank you for choosing us. If you have any questions or need support, please contact us immediately.</p>
+        <p>Best regards,</p>
+        <p>@shopname</p>
+    </div>
+</body>
+</html>

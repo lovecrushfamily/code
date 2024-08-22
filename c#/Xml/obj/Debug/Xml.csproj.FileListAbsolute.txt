@@ -1,0 +1,7 @@
+D:\Documents\utehy\utehy_Winform\Xml\bin\Debug\Xml.exe.config
+D:\Documents\utehy\utehy_Winform\Xml\bin\Debug\Xml.exe
+D:\Documents\utehy\utehy_Winform\Xml\bin\Debug\Xml.pdb
+D:\Documents\utehy\utehy_Winform\Xml\obj\Debug\Xml.csproj.AssemblyReference.cache
+D:\Documents\utehy\utehy_Winform\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+D:\Documents\utehy\utehy_Winform\Xml\obj\Debug\Xml.exe
+D:\Documents\utehy\utehy_Winform\Xml\obj\Debug\Xml.pdb
