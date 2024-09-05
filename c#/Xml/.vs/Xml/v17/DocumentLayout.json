@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\code\\c#\\Xml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF9435-932D-4826-8BEB-95D926FFDBA4}|Xml.csproj|d:\\documents\\code\\c#\\xml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FF9435-932D-4826-8BEB-95D926FFDBA4}|Xml.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF9435-932D-4826-8BEB-95D926FFDBA4}|Xml.csproj|D:\\Documents\\code\\c#\\Xml\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78FF9435-932D-4826-8BEB-95D926FFDBA4}|Xml.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 245,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Xml\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Xml\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:10:41.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Xml\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Documents\\code\\c#\\Xml\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-24T19:10:41.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

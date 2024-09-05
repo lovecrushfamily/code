@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\code\\c#\\C# Advance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|d:\\documents\\code\\c#\\c# advance\\serialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:serialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\lamda_expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:lamda_expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\ienumerable_yield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:ienumerable_yield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\extension_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:extension_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\deep_compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:deep_compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\anonymous_object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:anonymous_object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|D:\\Documents\\code\\c#\\C# Advance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF7BB5-F11A-4499-A7E4-802EA9E12295}|Advance C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 245,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Delegate.cs",
+              "RelativeDocumentMoniker": "Delegate.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Delegate.cs",
+              "RelativeToolTip": "Delegate.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extension_Method.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Extension_Method.cs",
+              "RelativeDocumentMoniker": "Extension_Method.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Extension_Method.cs",
+              "RelativeToolTip": "Extension_Method.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Generic.cs",
+              "RelativeDocumentMoniker": "Generic.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Generic.cs",
+              "RelativeToolTip": "Generic.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnumerable_Yield.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\IEnumerable_Yield.cs",
+              "RelativeDocumentMoniker": "IEnumerable_Yield.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\IEnumerable_Yield.cs",
+              "RelativeToolTip": "IEnumerable_Yield.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lamda_Expression.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Lamda_Expression.cs",
+              "RelativeDocumentMoniker": "Lamda_Expression.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Lamda_Expression.cs",
+              "RelativeToolTip": "Lamda_Expression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LINQ.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\LINQ.cs",
+              "RelativeDocumentMoniker": "LINQ.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\LINQ.cs",
+              "RelativeToolTip": "LINQ.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serialize.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Serialize.cs",
+              "RelativeDocumentMoniker": "Serialize.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Serialize.cs",
+              "RelativeToolTip": "Serialize.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopWatch.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\StopWatch.cs",
+              "RelativeDocumentMoniker": "StopWatch.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\StopWatch.cs",
+              "RelativeToolTip": "StopWatch.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "String.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\String.cs",
+              "RelativeDocumentMoniker": "String.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\String.cs",
+              "RelativeToolTip": "String.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deep_Compare.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Deep_Compare.cs",
+              "RelativeDocumentMoniker": "Deep_Compare.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Deep_Compare.cs",
+              "RelativeToolTip": "Deep_Compare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Anonymous_Object.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Anonymous_object.cs",
+              "RelativeDocumentMoniker": "Anonymous_object.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Anonymous_object.cs",
+              "RelativeToolTip": "Anonymous_object.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\C# Advance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\C# Advance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:14:26.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

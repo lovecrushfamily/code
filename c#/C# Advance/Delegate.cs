@@ -26,7 +26,7 @@ namespace Advance_C_
         void MyFunc(string greet, CallBack callBack)
         {
             Console.WriteLine(greet);
-            callBack("Hi, I'm delegate or known as Callback function");
+            callBack("Hi, I'm delegate or might also known as Callback function");
         }
 
     }

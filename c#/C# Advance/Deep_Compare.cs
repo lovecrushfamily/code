@@ -21,6 +21,8 @@ namespace Advance_C_
                 Age.Equals(Student.Age);
         }
 
+        
+
         public override int GetHashCode()
         {
             return base.GetHashCode();
@@ -67,9 +69,8 @@ namespace Advance_C_
 
                 //Recursion 
                 if(!objvalue.DeepEquals(anotherValue)) result = false;
-
             }
-
+                                                            
             return result;
         }
 

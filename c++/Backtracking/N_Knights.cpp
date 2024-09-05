@@ -55,7 +55,7 @@ int solveKnightsUtil(int row = 0){
 
 int main(){
 
-    cout << solveKnightsUtil();
+    cout << solveKnightsUtil(8);
 
     return 0;
 }

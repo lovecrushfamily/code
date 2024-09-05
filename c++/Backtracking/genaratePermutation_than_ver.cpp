@@ -49,7 +49,7 @@ void printPermute(vector<vector<int>> arr){
 int main(){
 
     // Generate all permutation of numerical array
-    vector<int> test =  {1, 2, 3};
+    vector<int> test =  {1, 2, 3, 4, 5, 6, 7 , 8 , 9};
     printPermute(getPermutations(test));
 
     // Generate Binary

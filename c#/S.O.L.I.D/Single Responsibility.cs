@@ -28,10 +28,19 @@ namespace SOLID
             return student.Id;
         }
 
-        internal string GetStudentName(Student student)
-        {
-            return student.Name;
-        }
+            internal string GetStudentName(Student student)
+            {
+                return student.Name;
+            }
+
+
+
+
+
+
+
+
+
 
         internal int GetStudentAge(Student student)
         {

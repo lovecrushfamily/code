@@ -15,17 +15,17 @@ using namespace std;
  * @return the index of the element in the vector `arr` that matches the `value` parameter. If the
  * element is not found, it returns -1.
  */
-int binarySearch(vector<int> arr, int value){
+int binarySearch(vector<int> nums, int target){
     int low = 0;
-    int high = arr.size() -  1;
+    int high = nums.size() -  1;
     while (low <= high)
     {
         /* code */
         int mid = low + (high - low) / 2;
-        if (arr[mid] == value){
+        if (nums[mid] == target){
             return mid;
         }
-        if (arr[mid] < value){
+        if (nums[mid] < target){
             low = mid + 1;
         }else{
             high = mid - 1;
@@ -44,7 +44,7 @@ int binarySearch(vector<int> arr, int value){
  * 
  * @return the index of the element if it is found in the array, otherwise it returns -1.
  */
-int binarySearchRecursion(vector<int> arr, int value, int low, int high){
+int binarySearchRecursion(vector<int> arr, int value, int low, int high ){
     if (high >= low){
         int mid = low + (high - low ) / 2;
         if( arr[mid] == value){
@@ -116,17 +116,17 @@ int interpolationSearch(vector<int> arr, int value){
 }
 int main(){
 
-    // vector<int> test = {2,3,5,7,9,12,34,34,53,55,424,242,322 };
+    vector<int> test = {2,3,5,7,9,12,34,34,53,55,424,242,322 };
     // cout << "Value at the position: " <<binarySearch(test,36 );
-    // cout << binarySearchRecursion(test,55, 0, test.size() - 1 );
+    cout << binarySearchRecursion(test,55, 0, test.size() - 1 );
     // cout << interpolationSearch(test,55 );
     // list<int> lis = {3,54,54,5,4,5,45,43,5,34,5,34,5,34,5};
     // for (int it : lis){
     //     cout << it << ' ';
     // }
 
-    vector<vector<int>> test = {{1,2},{4,5},{6,91}};
-    cout << binarySearchMatrix(test, 7);
+    // vector<vector<int>> test = {{1,2},{4,5},{6,91}};
+    cout << binarySearch(test, 52) << '\n';
 
     
 }

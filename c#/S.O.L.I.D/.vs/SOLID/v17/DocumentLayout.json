@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\code\\c#\\S.O.L.I.D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|d:\\documents\\code\\c#\\s.o.l.i.d\\dependency inversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|solutionrelative:dependency inversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|D:\\Documents\\code\\c#\\S.O.L.I.D\\interface segregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|solutionrelative:interface segregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|D:\\Documents\\code\\c#\\S.O.L.I.D\\liskov_substitution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|solutionrelative:liskov_substitution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|D:\\Documents\\code\\c#\\S.O.L.I.D\\open_closed principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|solutionrelative:open_closed principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|D:\\Documents\\code\\c#\\S.O.L.I.D\\single responsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|solutionrelative:single responsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|D:\\Documents\\code\\c#\\S.O.L.I.D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DBE41-DA97-45B4-957C-99139DD8C4C1}|SOLID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 234,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:45:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Single Responsibility.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Single Responsibility.cs",
+              "RelativeDocumentMoniker": "Single Responsibility.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Single Responsibility.cs",
+              "RelativeToolTip": "Single Responsibility.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:45:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Open_Closed Principle.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Open_Closed Principle.cs",
+              "RelativeDocumentMoniker": "Open_Closed Principle.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Open_Closed Principle.cs",
+              "RelativeToolTip": "Open_Closed Principle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:45:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Liskov_Substitution.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Liskov_Substitution.cs",
+              "RelativeDocumentMoniker": "Liskov_Substitution.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Liskov_Substitution.cs",
+              "RelativeToolTip": "Liskov_Substitution.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:45:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface Segregation.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Interface Segregation.cs",
+              "RelativeDocumentMoniker": "Interface Segregation.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Interface Segregation.cs",
+              "RelativeToolTip": "Interface Segregation.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:45:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dependency Inversion.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Dependency Inversion.cs",
+              "RelativeDocumentMoniker": "Dependency Inversion.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\S.O.L.I.D\\Dependency Inversion.cs",
+              "RelativeToolTip": "Dependency Inversion.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:45:18.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

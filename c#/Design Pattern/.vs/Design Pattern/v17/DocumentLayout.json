@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\code\\c#\\Design Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|D:\\Documents\\code\\c#\\Design Pattern\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|d:\\documents\\code\\c#\\design pattern\\iteraator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:iteraator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|D:\\Documents\\code\\c#\\Design Pattern\\inversion of control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:inversion of control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|d:\\documents\\code\\c#\\design pattern\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|d:\\documents\\code\\c#\\design pattern\\factory method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:factory method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|d:\\documents\\code\\c#\\design pattern\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|D:\\Documents\\code\\c#\\Design Pattern\\dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:dependency injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|d:\\documents\\code\\c#\\design pattern\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|d:\\documents\\code\\c#\\design pattern\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|D:\\Documents\\code\\c#\\Design Pattern\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|D:\\Documents\\code\\c#\\Design Pattern\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|D:\\Documents\\code\\c#\\Design Pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|D:\\Documents\\code\\c#\\Design Pattern\\template method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5272ECD-CB9D-40D1-BFFD-527B4A2BB395}|Design Pattern.csproj|solutionrelative:template method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 238,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iteraator.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Iteraator.cs",
+              "RelativeDocumentMoniker": "Iteraator.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Iteraator.cs",
+              "RelativeToolTip": "Iteraator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:09:01.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyWeight.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\FlyWeight.cs",
+              "RelativeDocumentMoniker": "FlyWeight.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\FlyWeight.cs",
+              "RelativeToolTip": "FlyWeight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:08:56.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factory Method.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Factory Method.cs",
+              "RelativeDocumentMoniker": "Factory Method.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Factory Method.cs",
+              "RelativeToolTip": "Factory Method.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:08:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Facade.cs",
+              "RelativeDocumentMoniker": "Facade.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Facade.cs",
+              "RelativeToolTip": "Facade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:08:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Composite.cs",
+              "RelativeDocumentMoniker": "Composite.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Composite.cs",
+              "RelativeToolTip": "Composite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:08:40.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Observer.cs",
+              "RelativeDocumentMoniker": "Observer.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Observer.cs",
+              "RelativeToolTip": "Observer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T08:50:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inversion of Control.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Inversion of Control.cs",
+              "RelativeDocumentMoniker": "Inversion of Control.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Inversion of Control.cs",
+              "RelativeToolTip": "Inversion of Control.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-22T08:19:21.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dependency Injection.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Dependency Injection.cs",
+              "RelativeDocumentMoniker": "Dependency Injection.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Dependency Injection.cs",
+              "RelativeToolTip": "Dependency Injection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-22T08:23:54.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Strategy.cs",
+              "RelativeDocumentMoniker": "Strategy.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Strategy.cs",
+              "RelativeToolTip": "Strategy.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T01:47:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Visitor.cs",
+              "RelativeDocumentMoniker": "Visitor.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Visitor.cs",
+              "RelativeToolTip": "Visitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T07:43:44.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Command.cs",
+              "RelativeDocumentMoniker": "Command.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Command.cs",
+              "RelativeToolTip": "Command.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T14:01:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Template Method.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Template Method.cs",
+              "RelativeDocumentMoniker": "Template Method.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Template Method.cs \u2B24",
+              "RelativeToolTip": "Template Method.cs \u2B24",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T05:59:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\code\\c#\\Design Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\code\\c#\\Design Pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T01:47:21.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

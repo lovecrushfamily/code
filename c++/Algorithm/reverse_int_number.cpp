@@ -5,7 +5,7 @@ using namespace std;
 that number. */
 int reverse(int num)
 {
-    int num2 = num;
+    // int num2 = num;
     int reverse = 0;
     // loop until num equal 0 => break loop
     while (num != 0)
@@ -24,7 +24,7 @@ int main()
     int num;
     cout << "Enter your number: ";
     cin >> num;
-    cout << num << " reverse => " << reverse(num);
+    cout << num << " reverse => " << reverse(num) <<'\n';
 
     // End
     return 0;
